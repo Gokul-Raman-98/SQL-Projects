@@ -1,5 +1,5 @@
 # Project Description
-## This project explores the Pizza Sales data to understand top selling and bottom selling Pizzas, Hourly trends of Pizzas and Percentage of pizza sales with respect to different parameters. We study how sales strategies can be improved and optimized. The data analysis is carried out using MS sql server.
+## This project explores the Pizza Sales data to understand top selling and bottom selling Pizzas, Hourly trends of Pizzas and Percentage of pizza sales with respect to different parameters. We study how sales strategies can be improved and optimized. The data analysis is carried out using MS SQL Server.
 
 # Business Questions To Answer
 
