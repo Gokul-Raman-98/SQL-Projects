@@ -60,8 +60,7 @@ Eight Tables were used in total, the table names and their columns are shown bel
 ### Result
 <img width="550" height="558" alt="image" src="https://github.com/user-attachments/assets/d235a3a6-b4ed-408d-880f-904ac5b828f1" />
 
-### 3. Is there a growing trend in the no. of orders placed over the past years? Can we see some kind of monthly seasonality in terms of the no. of 
-orders being placed? 
+### 3. Is there a growing trend in the no. of orders placed over the past years? Can we see some kind of monthly seasonality in terms of the no. of orders being placed? 
 <img width="488" height="127" alt="image" src="https://github.com/user-attachments/assets/f9fc60bd-d707-4164-bc03-585d14aec756" />
 
 ### Result
