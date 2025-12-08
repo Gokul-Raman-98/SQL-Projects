@@ -47,9 +47,14 @@ Eight Tables were used in total, the table names and their columns are shown bel
 
 ## SQL queries and results
 
-### Get the time range between which the orders were placed.
+### 1. Get the time range between which the orders were placed.
 <img width="387" height="90" alt="image" src="https://github.com/user-attachments/assets/84b7799f-0adf-48cd-8dae-3a2596a507ab" />
 
+### Result
+<img width="551" height="170" alt="image" src="https://github.com/user-attachments/assets/ab96191a-7015-4d7a-83c2-1b3f98757214" />
+
+
+### 2. Get the time range between which the orders were placed.
 
 
 
