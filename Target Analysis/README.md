@@ -27,5 +27,18 @@ Eight Tables were used in total, the table names and their columns are shown bel
 
 <img width="1663" height="716" alt="image" src="https://github.com/user-attachments/assets/77f8c511-8bfa-4ba5-9d98-359e59ad842c" />
 
+6. payments
+
+<img width="922" height="667" alt="image" src="https://github.com/user-attachments/assets/e6412e4c-8225-4f72-b033-ec3198353dea" />
+
+7. products
+
+<img width="1393" height="667" alt="image" src="https://github.com/user-attachments/assets/69c56e1e-4dd8-47da-bd31-ad4c541ac463" />
+
+8. sellers
+
+<img width="918" height="670" alt="image" src="https://github.com/user-attachments/assets/6df58efb-2dbc-47d2-bb19-bfa3f8932d5d" />
+
+
 
 
