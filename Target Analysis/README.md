@@ -45,3 +45,12 @@ Eight Tables were used in total, the table names and their columns are shown bel
 <img width="1275" height="761" alt="image" src="https://github.com/user-attachments/assets/fb14fdc3-6794-4674-a596-09c7b99d8674" />
 
 
+## SQL queries and results
+
+### Get the time range between which the orders were placed.
+<img width="387" height="90" alt="image" src="https://github.com/user-attachments/assets/84b7799f-0adf-48cd-8dae-3a2596a507ab" />
+
+
+
+
+
