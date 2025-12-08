@@ -54,7 +54,29 @@ Eight Tables were used in total, the table names and their columns are shown bel
 <img width="551" height="170" alt="image" src="https://github.com/user-attachments/assets/ab96191a-7015-4d7a-83c2-1b3f98757214" />
 
 
-### 2. Get the time range between which the orders were placed.
+### 2. Display the Cities & States of customers who ordered during the given period.
+<img width="578" height="167" alt="image" src="https://github.com/user-attachments/assets/a07da622-2f9d-4488-97db-1bdd4395b50b" />
+
+### Result
+<img width="550" height="558" alt="image" src="https://github.com/user-attachments/assets/d235a3a6-b4ed-408d-880f-904ac5b828f1" />
+
+### 3. Is there a growing trend in the no. of orders placed over the past years? Can we see some kind of monthly seasonality in terms of the no. of 
+orders being placed? 
+<img width="488" height="127" alt="image" src="https://github.com/user-attachments/assets/f9fc60bd-d707-4164-bc03-585d14aec756" />
+
+### Result
+<img width="395" height="421" alt="image" src="https://github.com/user-attachments/assets/c5edf06f-f1aa-43cb-8a8a-d3625c9226d5" />
+
+### 4. During what time of the day, do the Brazilian customers mostly place 
+their orders? (Dawn, Morning, Afternoon or Night) 
+■ 0-6 hrs : Dawn 
+■ 7-12 hrs : Mornings 
+■ 13-18 hrs : Afternoon 
+■ 19-23 hrs : Night 
+<img width="478" height="137" alt="image" src="https://github.com/user-attachments/assets/aa05ddfc-6c19-4033-a0b1-2b5c81c729b3" />
+
+
+
 
 
 
