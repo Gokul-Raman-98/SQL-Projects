@@ -1,5 +1,5 @@
 # Project Description
-## This project explores the Target Sales dataset to extract valuable insights and provide actionable recommendations. The Data Analysis is done using Big Query.
+## This project explores the Target store dataset to extract valuable insights and provide actionable recommendations. The Data Analysis is done using Big Query.
 
 ## The major aim of thie project is to gain insights in the orders, money movement, sales, freight, payments and delivery time.
 
