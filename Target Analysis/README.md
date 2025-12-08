@@ -10,3 +10,22 @@ Eight Tables were used in total, the table names and their columns are shown bel
 1. customers
 
 <img width="1160" height="723" alt="image" src="https://github.com/user-attachments/assets/e6ec09d9-e4d5-4a89-9962-0864142982fd" />
+
+2. geolocation
+
+<img width="925" height="681" alt="image" src="https://github.com/user-attachments/assets/87eef919-9158-44b3-9e2a-e725c7a1ecc2" />
+
+3. order_items
+
+<img width="1400" height="666" alt="image" src="https://github.com/user-attachments/assets/c6b15e17-7f7b-420b-94bc-13703a48c411" />
+
+4. order_reviews
+
+<img width="1396" height="667" alt="image" src="https://github.com/user-attachments/assets/48288b82-84d4-4f96-aa75-c89d6135f9fc" />
+
+5. orders
+
+<img width="1663" height="716" alt="image" src="https://github.com/user-attachments/assets/77f8c511-8bfa-4ba5-9d98-359e59ad842c" />
+
+
+
