@@ -39,7 +39,8 @@ Eight Tables were used in total, the table names and their columns are shown bel
 
 <img width="918" height="670" alt="image" src="https://github.com/user-attachments/assets/6df58efb-2dbc-47d2-bb19-bfa3f8932d5d" />
 
-### Relationship Diagram
+
+## Relationship Diagram
 
 <img width="1275" height="761" alt="image" src="https://github.com/user-attachments/assets/fb14fdc3-6794-4674-a596-09c7b99d8674" />
 
