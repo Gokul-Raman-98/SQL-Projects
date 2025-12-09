@@ -25,7 +25,7 @@ Eight Tables were used in total, the table names and their columns are shown bel
 
 5. orders
 
-<img width="1663" height="716" alt="image" src="https://github.com/user-attachments/assets/77f8c511-8bfa-4ba5-9d98-359e59ad842c" />
+<img width="521" height="557" alt="image" src="https://github.com/user-attachments/assets/462338b7-99d5-4586-8520-60df020d2df2" />
 
 6. payments
 
