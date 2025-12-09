@@ -94,6 +94,68 @@ Eight Tables were used in total, the table names and their columns are shown bel
 ### Result
 <img width="285" height="207" alt="image" src="https://github.com/user-attachments/assets/0a68cc20-77b2-42e5-ad04-9a27d07f27d0" />
 
+### 8. Calculate the Total & Average value of order price and freight value for each state
+<img width="340" height="247" alt="image" src="https://github.com/user-attachments/assets/0650ca4b-92c5-4368-9461-b85dd5d42aea" />
+
+#### Result
+<img width="913" height="562" alt="image" src="https://github.com/user-attachments/assets/1cdb3008-c22a-4aab-96c1-10a0ba3eda1e" />
+
+### 9. Find the no. of days taken to deliver each order from the order’s purchase date as delivery time
+### 10. Find the difference (in days) between the estimated & actual delivery date of an order
+<img width="1002" height="117" alt="image" src="https://github.com/user-attachments/assets/b1c85b7c-fad1-4513-bdf6-0beacfebacd5" />
+
+#### Result
+<img width="620" height="557" alt="image" src="https://github.com/user-attachments/assets/fa7e9431-68f1-410e-a5d8-57d7061cf95f" />
+
+### 11. Find out the top 5 states with the highest & lowest average freight value
+<img width="378" height="222" alt="image" src="https://github.com/user-attachments/assets/2a3e9582-3ef0-4828-868b-9499583069a8" />
+
+### Result
+<img width="465" height="302" alt="image" src="https://github.com/user-attachments/assets/7a6a151d-b87a-4285-9650-94d3c55226b9" />
+
+### 12. Find out the top 5 states with the highest & lowest average delivery time
+<img width="1158" height="225" alt="image" src="https://github.com/user-attachments/assets/02f43f1d-e2f4-4a17-92d0-016b252e5d1c" />
+
+### Result
+<img width="468" height="303" alt="image" src="https://github.com/user-attachments/assets/7aad6210-2c9f-4046-891c-43578b59857f" />
+
+### 13. Find out the top 5 states with the highest & lowest average delivery time
+<img width="1155" height="220" alt="image" src="https://github.com/user-attachments/assets/ab793c25-fa15-475c-a993-84d8e66fc09c" />
+
+### Result
+<img width="557" height="300" alt="image" src="https://github.com/user-attachments/assets/5b3f1d5e-e07a-4105-8339-28587f4c757e" />
+
+### 14. Find out the top 5 states where the order delivery is really fast as compared to the estimated date of delivery
+<img width="1118" height="217" alt="image" src="https://github.com/user-attachments/assets/0df35508-c68b-4010-ab7c-66ae3cc30d6d" />
+
+### Result
+<img width="555" height="302" alt="image" src="https://github.com/user-attachments/assets/309d8107-4e46-4ef9-b8f4-90d7ae38a819" />
+
+### 15. Find the month on month no. of orders placed using different payment types
+<img width="475" height="196" alt="image" src="https://github.com/user-attachments/assets/a5069dd0-c798-43b3-b536-8e9a10a13519" />
+
+### Result
+<img width="757" height="525" alt="image" src="https://github.com/user-attachments/assets/8f2ff469-4e48-4d42-be44-597ad8ef0a7c" />
+
+### 16. Find the no. of orders placed on the basis of the payment installments that have been paid
+<img width="352" height="106" alt="image" src="https://github.com/user-attachments/assets/8a43a86d-af90-43f8-955e-1acd8fd00760" />
+
+### Result
+<img width="370" height="556" alt="image" src="https://github.com/user-attachments/assets/9462d8ae-ffe9-4476-92d0-82908ac8520d" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
