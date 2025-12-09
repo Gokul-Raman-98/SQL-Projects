@@ -25,7 +25,7 @@ Eight Tables were used in total, the table names and their columns are shown bel
 
 5. orders
 
-<img width="521" height="557" alt="image" src="https://github.com/user-attachments/assets/462338b7-99d5-4586-8520-60df020d2df2" />
+<img width="1641" height="597" alt="image" src="https://github.com/user-attachments/assets/1ae216a7-b3fb-4fb7-8300-2684a467a0b1" />
 
 6. payments
 
@@ -80,7 +80,7 @@ Eight Tables were used in total, the table names and their columns are shown bel
 <img width="470" height="150" alt="image" src="https://github.com/user-attachments/assets/d1d8b734-9c35-460a-8118-5f1fdb517d7e" />
 
 ### Result
-<img width="522" height="562" alt="image" src="https://github.com/user-attachments/assets/bd7c9f50-c42d-40de-9922-c1df8365c364" />
+<img width="436" height="625" alt="image" src="https://github.com/user-attachments/assets/edb31312-103f-494b-bf37-b7e66db7ae7f" />
 
 ### 6. How are the customers distributed across all the states? 
 <img width="395" height="122" alt="image" src="https://github.com/user-attachments/assets/44858478-472c-4128-ab95-e30edb143d94" />
