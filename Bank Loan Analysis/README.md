@@ -15,6 +15,11 @@ Result
 
 ![image](https://github.com/user-attachments/assets/21eadff8-8561-4db4-bcdf-724050798855)
 
+Result
+
+<img width="465" height="92" alt="image" src="https://github.com/user-attachments/assets/d958d633-7652-4fb4-80bd-03d8a0e2faec" />
+
+
 3. Find PMTD loan applications ?
 
 ![image](https://github.com/user-attachments/assets/f513059f-0b37-45d0-85a3-85baaf8611a3)
