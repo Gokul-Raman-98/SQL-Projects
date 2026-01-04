@@ -7,6 +7,10 @@
 
 ![image](https://github.com/user-attachments/assets/8d25d266-0dfe-41d2-b4a7-f023c4bd294c)
 
+Result
+
+<img width="378" height="93" alt="image" src="https://github.com/user-attachments/assets/082052a4-fb4f-4841-8a48-d2773e712fef" />
+
 2. Find MTD loan applications ?
 
 ![image](https://github.com/user-attachments/assets/21eadff8-8561-4db4-bcdf-724050798855)
