@@ -19,18 +19,29 @@ Result
 
 <img width="465" height="92" alt="image" src="https://github.com/user-attachments/assets/d958d633-7652-4fb4-80bd-03d8a0e2faec" />
 
-
 3. Find PMTD loan applications ?
 
 ![image](https://github.com/user-attachments/assets/f513059f-0b37-45d0-85a3-85baaf8611a3)
+
+Result
+
+<img width="472" height="97" alt="image" src="https://github.com/user-attachments/assets/94e64ce3-ca6c-4ca8-b373-d9455919f36c" />
 
 4. Find MTD total funded amount ?
 
 ![image](https://github.com/user-attachments/assets/4814a904-80a1-4608-84b6-69e1d9ed9939)
 
+Result
+
+<img width="365" height="93" alt="image" src="https://github.com/user-attachments/assets/76b2c01a-7a25-4860-a619-43363d5ba44c" />
+
 5. Find PMTD total funded amount ?
 
 ![image](https://github.com/user-attachments/assets/b97f48de-6e67-479b-a288-8066d6e98ba6)
+
+Result
+
+<img width="365" height="93" alt="image" src="https://github.com/user-attachments/assets/437aba43-9f27-425c-8c15-b8451c54ed8a" />
 
 6. Find total amount received ?
 
