@@ -177,7 +177,15 @@ Output
 
 <img width="183" height="98" alt="image" src="https://github.com/user-attachments/assets/1b4feb13-cada-42b4-a3b5-a939397cf445" />
 
-2. How many unique payment methods does the data have?
+2. How many unique customer types does the data have?
+
+<img width="416" height="160" alt="image" src="https://github.com/user-attachments/assets/866f64ff-6d7f-4267-bf6f-f04d2a9829e0" />
+
+Output
+
+<img width="183" height="92" alt="image" src="https://github.com/user-attachments/assets/7b16d590-cc14-4472-9e71-5a6c0c71aca4" />
+
+3. How many unique payment methods does the data have?
 
 ![image](https://github.com/Gokul-Raman-98/SQL-Projects/assets/168402268/333abee4-c31e-4f35-a745-a005bd5fd344)
 
@@ -185,7 +193,7 @@ Output
 
 <img width="197" height="115" alt="image" src="https://github.com/user-attachments/assets/32b9ad19-18bc-419f-b3ea-cae04ff5af01" />
 
-3. What is the most common customer type?
+4. What is the most common customer type?
 
 ![image](https://github.com/Gokul-Raman-98/SQL-Projects/assets/168402268/8d4a75a3-c92a-4c7f-abc4-be183981f724)
 
@@ -193,7 +201,7 @@ Output
 
 <img width="281" height="100" alt="image" src="https://github.com/user-attachments/assets/3a493ad4-5948-4a66-b331-ae028652dd2b" />
 
-4. Which customer type buys the most?
+5. Which customer type buys the most?
 
 ![image](https://github.com/Gokul-Raman-98/SQL-Projects/assets/168402268/c929d87a-1d45-4373-bc95-f0b1def23753)
 
@@ -201,7 +209,7 @@ Output
 
 <img width="280" height="101" alt="image" src="https://github.com/user-attachments/assets/b75f13dd-46dd-4fa2-bfd5-4ded1a15e345" />
 
-5. What is the gender of most of the customers?
+6. What is the gender of most of the customers?
 
 ![image](https://github.com/Gokul-Raman-98/SQL-Projects/assets/168402268/f5c1539b-15dd-416b-9317-5c6da9a9d267)
 
@@ -209,7 +217,7 @@ Output
 
 <img width="240" height="100" alt="image" src="https://github.com/user-attachments/assets/dd823f52-ae63-4c3a-b9a9-ce6fb44d5a13" />
 
-6. What is the gender distribution per branch?
+7. What is the gender distribution per branch?
 
 ![image](https://github.com/Gokul-Raman-98/SQL-Projects/assets/168402268/b73ff3d5-f1d2-445f-9087-b92149c25895)
 
@@ -217,7 +225,7 @@ Output
 
 <img width="241" height="116" alt="image" src="https://github.com/user-attachments/assets/1fa33691-2102-4519-af81-67bba5eb4c52" />
 
-7. Which time of the day do customers give most ratings?
+8. Which time of the day do customers give most ratings?
 
 ![image](https://github.com/Gokul-Raman-98/SQL-Projects/assets/168402268/4c243116-aa59-4bb4-81ab-3d38d29d1e03)
 
@@ -225,14 +233,26 @@ Output
 
 <img width="267" height="120" alt="image" src="https://github.com/user-attachments/assets/f7668914-2888-4bff-9ef6-216b9d0fd1ab" />
 
-8. Which time of the day do customers give most ratings per branch?
+9. Which time of the day do customers give most ratings per branch?
 
 ![image](https://github.com/Gokul-Raman-98/SQL-Projects/assets/168402268/9f6daec1-c72e-4839-95b3-f610e2e6462c)
 
-9. Which day fo the week has the best avg ratings?
+Output
+
+<img width="282" height="122" alt="image" src="https://github.com/user-attachments/assets/b38209f8-a961-4b10-a248-51a6826ba8c6" />
+
+10. Which day fo the week has the best avg ratings?
 
 ![image](https://github.com/Gokul-Raman-98/SQL-Projects/assets/168402268/9dfb3ec0-5b05-4cc2-9f72-7d3852b55d5c)
 
-10. Which day of the week has the best average ratings per branch?
+Output
+
+<img width="262" height="226" alt="image" src="https://github.com/user-attachments/assets/ceb024e2-f050-4159-8618-253e33e1fe5d" />
+
+11. Which day of the week has the best average ratings per branch?
 
 ![image](https://github.com/Gokul-Raman-98/SQL-Projects/assets/168402268/658371f4-e008-4278-bf05-dfa4338fed05)
+
+Output
+
+<img width="252" height="225" alt="image" src="https://github.com/user-attachments/assets/8acb9de5-27d7-4e6b-9e45-06eb4ec555a0" />
