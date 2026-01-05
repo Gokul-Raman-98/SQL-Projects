@@ -83,7 +83,7 @@ Output
 
 Output
 
-<img width="260" height="128" alt="image" src="https://github.com/user-attachments/assets/07f940d5-15a8-4418-bff9-0c12c01c86b7" />
+<img width="251" height="127" alt="image" src="https://github.com/user-attachments/assets/b675bcac-789a-421b-a189-d18e7285d0a2" />
 
 6. What product line had the largest revenue?
 
